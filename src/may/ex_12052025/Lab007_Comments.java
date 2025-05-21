@@ -6,7 +6,7 @@ package may.ex_12052025;
  *
  */
 // Program Java with the class file , name of the class is Lab007
-public class Lab007 {
+public class Lab007_Comments {
     // This is a main function, JVM starts from here
     public static void main(String[] args) {
         // This code will not be executed

@@ -1,6 +1,6 @@
 package may.ex_12052025;
 
-public class Lab008 {
+public class Lab008_Keywords {
     public static void main(String[] args) {
         System.out.println("Keywords and identifiers");
         //keywords and Identifiers
