@@ -1,4 +1,4 @@
-package may.ex_20052025;
+package may.ex_20052025_DT_Variables;
 
 public class Lab013 {
     public static void main(String[] args) {

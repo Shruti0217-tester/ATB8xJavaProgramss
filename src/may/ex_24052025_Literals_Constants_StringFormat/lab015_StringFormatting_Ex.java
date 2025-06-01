@@ -1,4 +1,4 @@
-package may.ex_24052025;
+package may.ex_24052025_Literals_Constants_StringFormat;
 
 public class lab015_StringFormatting_Ex {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package may.ex_20052025;
+package may.ex_20052025_DT_Variables;
 // DATA TYPES
 public class Lab012_Datatypes {
     public static void main(String[] args) {

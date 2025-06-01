@@ -1,4 +1,4 @@
-package may.ex_12052025;
+package may.ex_12052025_Com_Key_Identifiers;
 
 public class Lab008_Keywords {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package may.ex_24052025;
+package may.ex_24052025_Literals_Constants_StringFormat;
 
 public class Lab018_Constant {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package may.ex_12052025;
+package may.ex_12052025_Com_Key_Identifiers;
 
-public class Lab009 {
+public class Lab009_DT_V_Example {
     public static void main(String[] args) {
         //Variable and Datatypes, Identifiers
         System.out.println("Datatypes");
