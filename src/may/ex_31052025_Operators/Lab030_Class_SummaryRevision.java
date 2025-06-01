@@ -11,7 +11,7 @@ public class Lab030_Class_SummaryRevision {
         //Relational Operators
         // >, <, >=, <=, !, !=, == (Compare two values)
 
-        // Logical Opertors
+        // Logical Operators
         // OR or AND, ||, &&, !
 
         // They will come in the future --- OOps Concepts
