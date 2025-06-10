@@ -1,6 +1,6 @@
 package Java_Task;
 
-public class Task1_31052025 {
+public class Task1_Simple_Calculator {
     public static void main(String[] args) {
         //Simple Calculator
 
