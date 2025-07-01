@@ -1,4 +1,4 @@
-package June.ex_02062025;
+package June.ex_02062025_IfElse_Ternary_Operator;
 
 import java.lang.Math;
 

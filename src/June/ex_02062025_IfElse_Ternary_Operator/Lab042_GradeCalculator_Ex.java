@@ -1,4 +1,4 @@
-package June.ex_02062025;
+package June.ex_02062025_IfElse_Ternary_Operator;
 
 public class Lab042_GradeCalculator_Ex {
     public static void main(String[] args) {

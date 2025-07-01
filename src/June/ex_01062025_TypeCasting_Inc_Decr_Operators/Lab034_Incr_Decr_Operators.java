@@ -1,4 +1,4 @@
-package June.ex_01062025;
+package June.ex_01062025_TypeCasting_Inc_Decr_Operators;
 
 public class Lab034_Incr_Decr_Operators {
     public static void main(String[] args) {

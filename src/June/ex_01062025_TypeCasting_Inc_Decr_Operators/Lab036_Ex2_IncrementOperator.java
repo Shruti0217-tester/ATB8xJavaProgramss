@@ -1,6 +1,4 @@
-package June.ex_01062025;
-
-import javax.xml.transform.Source;
+package June.ex_01062025_TypeCasting_Inc_Decr_Operators;
 
 public class Lab036_Ex2_IncrementOperator {
     public static void main(String[] args) {

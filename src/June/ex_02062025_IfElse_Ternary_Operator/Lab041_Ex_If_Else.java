@@ -1,4 +1,4 @@
-package June.ex_02062025;
+package June.ex_02062025_IfElse_Ternary_Operator;
 
 public class Lab041_Ex_If_Else {
     public static void main(String[] args) {

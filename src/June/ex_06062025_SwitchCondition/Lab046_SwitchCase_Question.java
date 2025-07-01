@@ -1,4 +1,4 @@
-package June.ex_06062025;
+package June.ex_06062025_SwitchCondition;
 
 public class Lab046_SwitchCase_Question {
     public static void main(String[] args) {
